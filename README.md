@@ -12,6 +12,7 @@
 
 - <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ac6c068b-0050-4e49-8f50-5e0cc7377cf8" />
 
+- obsidian使用指南；下载 obsidian，然后把矩阵和数理统计的全部 md 文档都下下来，丢进 obsidian 的文件夹里，over
 **数理统计使用说明**：
 
 	- 1.星标考点：凡是标有 `⭐` 的内容，均为课改以来考过的知识点和方法。
