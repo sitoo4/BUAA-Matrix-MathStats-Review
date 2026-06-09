@@ -9,7 +9,8 @@
 
 写在前面：不管是矩阵还是数理统计，都一定要看对应的总文档！！！
 另外如果想要获得比较好的阅读体验，请用 obsidian 进行阅读。（因为所有文档都是在 obsidian 里写完的）在 obsidian 里是如图这样的效果
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ac6c068b-0050-4e49-8f50-5e0cc7377cf8" />
+
+- <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ac6c068b-0050-4e49-8f50-5e0cc7377cf8" />
 
 **数理统计使用说明**：
 
